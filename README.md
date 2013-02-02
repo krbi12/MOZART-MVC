@@ -96,8 +96,8 @@ $ly->config['menus'] = array(
 <h3>New blog</h3>
 <p>To create new blog content, go to 'content' and click on 'Create new content'. Keep the following in mind when you fill out the form.
 <ul>
-<li><strong>Title</strong> - a human-readable title for the entry (i.g. This is a fine day).</li>
-<li><strong>Key</strong> - usually a version of Title, without whitespaces and capital letters(i.g. this-is-a-fine-day).</li>
+<li><strong>Title</strong> - a human-readable title for the entry (e.g. This is a fine day).</li>
+<li><strong>Key</strong> - usually a version of Title, without whitespaces and capital letters(e.g. this-is-a-fine-day).</li>
 <li><strong>Content</strong> - The actual content of the page.</li>
 <li><strong>Type</strong> - For blog posts you should set this to 'post'.</li>
 <li><strong>Filter</strong> - Choose between the following.</li>
