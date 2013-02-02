@@ -27,7 +27,7 @@ RewriteBase /MOZART/
 <p>Finally, MOZART has some modules that need to be initialised. You can do this through a 
 controller. Point your browser to the following link.</p>
 <blockquote>
-Example: http://example.com/modules/install
+Example: <pre>http://example.com/modules/install</pre>
 </blockquote>
 
 <h2>Post installation</h2>
