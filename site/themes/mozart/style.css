@@ -1,0 +1,21 @@
+/** 
+ * Description: Sample theme for site which extends the mozart-theme.
+ */
+@import url(../../../themes/grid/style.css);
+
+html{background-color:#B3925D;}
+body{background-color:#DEBC85;margin:auto;width:1000px;}
+#outer-wrap-header{background-color:#DEBC85;padding:5px;}
+#outer-wrap-footer{background-color:#FFD899;font-size:0.8em;}
+a{color:#3C0050;}
+#navbar ul {border-bottom:1px solid #97805A;border-top:1px solid #97805A;padding:2px 0 2px 0;}
+#navbar ul.menu li a{background-color:#97805A;border-bottom:none;text-decoration:none;padding:0 5px 0 5px;color:white;}
+#navbar ul.menu li a:hover{background-color:#554833;border-bottom:none;text-decoration:none;}
+#navbar ul.menu li a.selected{background-color:#FDD798;color:#5E4F38;border-bottom:none;text-decoration:none;}
+#navbar ul.menu li{display:inline;margin:0 1px 0 0;}
+
+
+#site-slogan {color:#3C0050;}
+#banner #site-title a {color:#3C0050;}
+
+.directory{background-color:#B3925D;color:white;}
