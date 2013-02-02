@@ -90,6 +90,36 @@ $ly->config['menus'] = array(
 </blockquote>
 </p>
 </li>
+
+
+<li>
+<h3>New blog</h3>
+<p>To create new blog content, go to 'content' and click on 'Create new content'. Keep the following in mind when you fill out the form.
+<ul>
+<li><strong>Title</strong> - a human-readable title for the entry (i.g. This is a fine day).</li>
+<li><strong>Key</strong> - usually a version of Title, without whitespaces and capital letters(i.g. this-is-a-fine-day).</li>
+<li><strong>Content</strong> - The actual content of the page.</li>
+<li><strong>Type</strong> - For blog posts you should set this to 'post'.</li>
+<li><strong>Filter</strong> - Choose between the following.</li>
+<ul>
+<li><strong>plain</strong> - should be used when no markup is required</li>
+<li><strong>htmlpurify</strong> - this alternative accepts HTML, but removes code that might be harmfull</li>
+<li><strong>bbcode</strong> - used in some forums and has some basic formatting options. <a target="_blank" href="http://en.wikipedia.org/wiki/BBCode">Learn more</a>.</li>
+</ul>
+</ul>
+</p>
+</li>
+
+
+
+<li>
+<h3>New page</h3>
+<p>To create a new page, do exactly as when creating a blog, except set the Type field to 'page'.
+</p>
+</li>
+
+
+
 </ul>
 <p>
 Good luck with installing MOZART! I hope you will enjoy using it.
